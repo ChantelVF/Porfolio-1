@@ -41,8 +41,8 @@
         <input type="text" class="input" placeholder="Subject">
          </div>
     <div class="msg"></div>
-
-
+         <textarea placeholder="message"></textarea>
+            <div class="btn">Send</div>
 
 
   <footer>
