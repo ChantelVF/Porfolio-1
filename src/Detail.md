@@ -1,5 +1,5 @@
 ---
-title: Sample page
+title: Detail Page
 layout: base.njk
 tags: navItem
 ---

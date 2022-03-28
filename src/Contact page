@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>YourSiteName | Home</title>
+  <title>CVF Porfolio | Contact </title>
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -23,8 +23,8 @@
     <li>
       <a 
          
-        href="/sample/">
-          Sample page
+        href="/Contact/">
+          Contact Page
       </a>
     </li>
   </ul>
@@ -32,8 +32,17 @@
     </header>
 
   <h1>Want to get in touch?</h1>
-<p>My Home Page!
-This is the home page. Replace this with your text.</p>
+<div class="wrapper"></div>
+  <div class="contact-form"></div> 
+      <div class="input-fields">
+        <input type="text" class="input" placeholder="Name">
+        <input type="text" class="input" placeholder="Email Address">
+        <input type="text" class="input" placeholder="Phone">
+        <input type="text" class="input" placeholder="Subject">
+         </div>
+    <div class="msg"></div>
+
+
 
 
   <footer>
