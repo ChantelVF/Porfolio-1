@@ -414,3 +414,57 @@ html {
       width: 30px;
     }
   }
+/* ABOUT ME STYLING */
+*{
+  padding: 0px;
+}
+h1{
+  color: black;
+  padding: 20px;
+  font-size: 27px;
+}
+h2{
+  font-family: Avenir;
+  padding-bottom: 0px;
+  color: #505050;
+  padding: 0px;
+  font-size: 30px;
+  background-color: yellow;
+}
+.span6 {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  font-family: Avenir;
+  font-size: 15px;
+}
+.head {
+font-weight: bold;
+font-size: 26px;
+float: left;
+color:red;
+
+position: absolute;
+  top: 160px;
+right: 800px;
+}
+
+.paragraph {
+  padding-top: 0px;
+font-size: 0px;
+width: 300px;
+float:left;
+position: absolute;
+font-style: italic;
+top: 200px;
+right: 400px;
+  text-align: left;
+}
+p{
+  font-size: 18px;
+  padding: 0px;
+  font-family: Didot;
+}
+hr{
+  padding: 0px;
+}
