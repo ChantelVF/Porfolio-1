@@ -3,15 +3,9 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# {{title}}
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam dignissimos numquam libero quod assumenda dolor eveniet delectus voluptates necessitatibus. Voluptates magni, placeat expedita molestiae quae praesentium vel eum id ratione.
-
-<figure>
-    <img src="/images/christina-wocintechchat-com-XmvKl8CDMrk-unsplash.jpg" alt="person in Yankees hat sitting by window working on laptop ">
-    <figcaption>
-        <p>Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  </p>
-    </figcaption>
-</figure>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+</head>
+<section>
+  <div class="title"><span> Chantel VF </span><span>Multimedia Designer and <a target="_blanck" href="https://www.instagram.com/cvonford.art/">Illustrator</a></span></div>
+</section>

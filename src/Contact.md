@@ -38,7 +38,7 @@ tags: navItem
                     </div>
                     <div class="contact-child child2">
                         <div class="inside-contact">
-                            <h2>Contact Us</h2>
+                            <h2>Contact Me</h2>
                             <h3>
                                <span id="confirm">
                             </h3>
