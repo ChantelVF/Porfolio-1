@@ -12,7 +12,6 @@
         <!-- add site wide header content here -->
         <nav>
   <ul role="list">
-    
     <li>
       <a 
         aria-current="page" 
@@ -21,8 +20,7 @@
       </a>
     </li>
     <li>
-      <a 
-         
+      <a  
         href="/sample/">
           Sample page
       </a>
@@ -30,19 +28,15 @@
   </ul>
 </nav>
     </header>
-
   <h1>Home</h1>
 <p>My Home Page!
 This is the home page. Replace this with your text.</p>
-
-
   <footer>
     <div>
       <p>&copy; Your Name</p>
       <!-- You can change all of this footer content. -->
     </div>
   </footer>
-
   <script src="/js/main.js"></script>
 </body>
 </html>
