@@ -8,7 +8,7 @@ tags: navItem
   <h1>About me </h1>
 
  <div class="head">
-     <img src="/images/DSC07929.jpg"/>
+     <img src="/images/aboutme.jpg"/>
  </div>
  <div class="paragraph">
    <h2> Hello,My name is Chantel </h2>
