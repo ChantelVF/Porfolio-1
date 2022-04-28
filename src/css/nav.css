@@ -24,7 +24,11 @@
     text-transform: uppercase;
     letter-spacing: 0.2em;
   }
-  
+  .logo h1{ 
+    padding:0;
+    height: 100px;
+    line-height: 100px;
+  }
   /* CSS Hamburger Icon 
   thanks to Elijah Manor */
   .hamburger{
@@ -99,12 +103,14 @@
     .links {
       display: flex;
       flex-basis: auto;
-      height: auto;
+      height: 100px;
+      line-height: 100px;
       margin: 0 -1em;
     }
   
     .links a {
-      display: inline-block;
+      display: block;
+      line-height: 100px;
       margin: 0 1em;
     }
   }

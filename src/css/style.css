@@ -119,14 +119,14 @@
     background-color: #fccdcd;
     color: #1b1b1b;
   }
-  nav {
+  /* nav {
     width: 100%;
     background-color: #0b0b0b;
     position: fixed;
     bottom: 0;
     height: 100px;
     overflow: hidden;
-  }
+  } */
   nav ul {
     position: absolute;
     top: 0;
