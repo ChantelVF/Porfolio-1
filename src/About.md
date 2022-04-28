@@ -4,12 +4,11 @@ layout: base.njk
 tags: navItem
 ---
 <section class="aboutgrid">
-
-  <h1>About me </h1>
-
+  <link rel="stylesheet" href="/css/style.css">
+  <h1>About me </h1> 
  <div class="head">
      <img src="/images/aboutme.jpg"/>
- </div>
+ </div> 
  <div class="paragraph">
    <h2> Hello,My name is Chantel </h2>
    <hr>
