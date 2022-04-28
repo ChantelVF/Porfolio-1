@@ -1,42 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>YourSiteName | Home</title>
-  <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-  <header class="site-header">
-        <!-- add site wide header content here -->
-        <nav>
-  <ul role="list">
-    <li>
-      <a 
-        aria-current="page" 
-        href="/">
-          Home
-      </a>
-    </li>
-    <li>
-      <a  
-        href="/sample/">
-          Sample page
-      </a>
-    </li>
-  </ul>
-</nav>
-    </header>
-  <h1>Home</h1>
-<p>My Home Page!
-This is the home page. Replace this with your text.</p>
-  <footer>
-    <div>
-      <p>&copy; Your Name</p>
-      <!-- You can change all of this footer content. -->
-    </div>
-  </footer>
-  <script src="/js/main.js"></script>
-</body>
-</html>
+---
+title: About
+layout: base.njk
+tags: navItem
+---
+<section class="aboutgrid">
+
+  <h1> The Process  </h1>
+
+ <div class="head">
+     <img src="/images/DSC07929.jpg"/>
+ </div>
+ <div class="paragraph">
+   <h2> Hello,My name is Chantel </h2>
+   <hr>
+<p>Coming from Philadelphia,PA to New York City I've always been a creative. I've studied Multimedia Programming and Design, knowing art was my passion but the field would need more experienced minds with the shift and reliance on the internet brought on by the pandemic.</p> 
+
+<p>My hobbies include streaming, and playing games with friends, both online and offline. Currently I am a personal trainer and content creator, as well as a social media manager for several clients as well as myself.</p>
+
+<p>I strive to be a well rounded designer, with a passion for typography,UX/UI and illustration.</p>
+ </div>
+</section>
