@@ -34,7 +34,7 @@ body{
   position: relative;
   box-shadow: 0 0 8px silver;
 }
-img{
+.grid img{
   display: block;
   object-fit: cover;
   object-position: center;

@@ -4,7 +4,6 @@ layout: base.njk
 tags: navItem
 ---
 <section class="aboutgrid">
-  <link rel="stylesheet" href="/css/style.css">
   <h1>About me </h1> 
  <div class="head">
      <img src="/images/aboutme.jpg"/>
