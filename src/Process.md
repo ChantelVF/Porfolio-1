@@ -3,8 +3,11 @@ title: process
 layout: base.njk
 tags: navItem
 ---
-<section class="grid">
-{% for post in collections.breeze %}
+
+## My Blog
+
+<section class="processgrid">
+{% for post in collections.post %}
 <article class="card">
     <div class="card__img"><img src="{{ post.data.postImg | url }}" alt="{{ post.data.postImgAlt}}"></div>
       <div class="card__content">

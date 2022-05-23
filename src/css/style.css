@@ -225,12 +225,12 @@
     transition: left 0.3s ease;
     transform: translateY(0);
   }
-  section {
+  .homepage {
     background-color: #1b1b1b;
     height: 100vh;
     display: flex;
   }
-  section .title {
+  .homepage .title {
     max-width: 60%;
     width: 100%;
     align-self: center;
@@ -239,7 +239,7 @@
     overflow: hidden;
     padding-bottom: 10px;
   }
-  section .title span {
+  .homepage .title span {
     display: inline-block;
     font-size: 5vw;
     color: #efefef;
@@ -250,18 +250,18 @@
     font-weight: 600;
     letter-spacing: 0.25vw;
   }
-  section .title span:last-child {
+  .homepage .title span:last-child {
     font-size: 1rem;
     animation: byBottom 1s 0.25s ease both;
   }
-  section .title span a {
+  .homepage .title span a {
     position: relative;
     display: inline-block;
     margin-left: 0.5rem;
     text-decoration: none;
     color: #fccdcd;
   }
-  section .title span a::after {
+  .homepage .title span a::after {
     content: "";
     height: 2px;
     background-color: #fccdcd;
@@ -487,7 +487,15 @@ li {
   .card__content{
     padding: 0 40px 20px 40px;
   }
-  
+  @media screen and (min-width:600px) {
+    .processgrid{
+display:grid; 
+gap: 20px;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    }
+  }
+ 
   
   
   /* ===================================================

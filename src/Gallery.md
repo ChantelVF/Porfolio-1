@@ -3,7 +3,7 @@ title: Gallery
 layout: base.njk
 tags: navItem
 ---
-<div class="grid">
+<div class="gallery">
     <div class="one"><img src="/images/DSC_0023.jpg"/></div>
     <div class="two"><img src="/images/DSC_0063.jpg" alt=""></div>
     <div class="three span-v"><img src="/images/DSC_0068.jpg" alt=""></div>
